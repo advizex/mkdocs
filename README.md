@@ -1,1 +1,3 @@
-# mkdocsThis is going to be awesome!!!!!!!!!!
+# OBSOLETE
+
+Use this instead https://hub.docker.com/r/moird/mkdocs/
